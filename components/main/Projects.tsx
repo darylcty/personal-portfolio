@@ -36,7 +36,7 @@ const Projects = () => {
               description="A React webapp that allows users to track inventory and look up recipes with ingredients on hand. Built with Spoontacular API and Airtable API."/>
         </div>
       </div>
-      <div className="flex flex-col items-center justify-center py-20">
+      {/* <div className="flex flex-col items-center justify-center py-20">
         <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
           <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-500 py-20">
             My Cybersecurity Projects
@@ -53,8 +53,8 @@ const Projects = () => {
               src="/wip.png"
               title="File Encryption/Decryption Tool"
               description="Encrypts and decrypts files using existing libraries, requiring good understanding of encryption algorithms."/>
-        </div>
-      </div>
+          </div>
+        </div> */}
       </section>
   )
 }
