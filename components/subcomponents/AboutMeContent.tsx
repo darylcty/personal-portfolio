@@ -37,7 +37,7 @@ const AboutMeContent = () => {
                 <motion.p
                 variants={slideInFromLeft(0.8)}
                 className="text-lg text-gray-400 max-w-[600px]">
-                    Feel free to browse around or reach out via LinkedIn, I'd love to hear from you!
+                    Feel free to browse around or reach out via LinkedIn, I&apos;d love to hear from you!
                 </motion.p>
             </div>
         </motion.div>

@@ -19,6 +19,10 @@ const Projects = () => {
             My Software Development Projects
           </h1>
             <ProjectCard
+              src="/portfolio.png"
+              title="Portfolio Webpage"
+              description="A Next.JS Personal Portfolio Webpage built with TypeScript and Tailwind."/>
+            <ProjectCard
               src="/bearlyhired.png"
               title="BearlyHired Job Application Tracker"
               description="A MERN stack job application, interview rounds and offer tracker inpsired by personal career switching experience."/>
