@@ -11,7 +11,7 @@ const Projects = () => {
         <motion.div
           variants={slideInFromTop}
           className="cursive Welcome-text text-[40px] font-large text-center font-bold text-gray-200">
-                        whatidid_
+                        what i did_
           </motion.div>
       <div className="flex flex-col items-center justify-center py-20">
         <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
