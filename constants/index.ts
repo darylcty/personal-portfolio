@@ -88,6 +88,12 @@ export const Frontend_skill = [
         width: 80,
         height: 80,
     },
+    {
+        skill_name: "Angular",
+        Image: "/angular.png",
+        width: 80,
+        height: 80,
+    },
 ];
 
 export const Backend_skill = [
@@ -124,6 +130,12 @@ export const Backend_skill = [
     {
         skill_name: "git",
         Image: "/git.png",
+        width: 85,
+        height: 85,
+    },
+    {
+        skill_name: "Firebase",
+        Image: "/firebase.png",
         width: 85,
         height: 85,
     },

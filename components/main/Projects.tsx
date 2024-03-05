@@ -34,6 +34,10 @@ const Projects = () => {
               src="/frigidforager.png"
               title="Fridge Tracker & Recipe "
               description="A React webapp that allows users to track inventory and look up recipes with ingredients on hand. Built with Spoontacular API and Airtable API."/>
+            <ProjectCard
+              src="/dpwm.png"
+              title="Password Manager "
+              description="An Angular+Firebase password manager that allows users to store passwords securely. Other functionalities include adding sites and apps, editing and deleting passwords."/>
         </div>
       </div>
       {/* <div className="flex flex-col items-center justify-center py-20">
